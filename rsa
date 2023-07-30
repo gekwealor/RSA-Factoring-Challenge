@@ -27,6 +27,3 @@ def factorize():
                     print("{}={}*{}".format(line_number, line_number, 1))
     except (IndexError):
         pass
-
-
-factorize()
